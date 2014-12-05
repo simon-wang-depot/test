@@ -1,0 +1,2 @@
+Introduction
+the purpose of the document is to explain the function of each API and also gives the simple example.
