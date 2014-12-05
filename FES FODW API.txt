@@ -1,2 +1,6 @@
 Introduction
-the purpose of the document is to explain the function of each API and also gives the simple example.
+the purpose of the document is to illustrate the function and presents the simple example for each APIs.
+
+the list of APIs
+
+1. get active flight objects
